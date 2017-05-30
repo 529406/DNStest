@@ -1,0 +1,10 @@
+$TTL	3600
+ysd-partner.jp.  IN  SOA  tdcnsl00.ysd-partner.jp. ksahoda.nekonet.co.jp. (
+			2008121803	; serial
+			2H	; refresh
+			30M	; retry
+			2W	; expire
+			1M )
+ysd-partner.jp.	IN  NS  tdcnsl01.nekonet.co.jp.
+ysd-partner.jp.	IN  NS  osansl01.nekonet.co.jp.
+www.ysd-partner.jp.	IN  A  172.24.243.99

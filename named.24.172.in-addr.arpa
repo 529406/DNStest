@@ -1,0 +1,12 @@
+$TTL	3600
+24.172.in-addr.arpa.  IN  SOA  tdcnsl00.24.172.in-addr.arpa. root.nekonet.co.jp. (
+			2008121800	; serial
+			7200	; refresh
+			1800	; retry
+			1209600	; expire
+			60 )
+24.172.in-addr.arpa.	IN  NS  tdcnsl01.nekonet.co.jp.
+24.172.in-addr.arpa.	IN  NS  osansl01.nekonet.co.jp.
+15.82.24.172.in-addr.arpa.	IN  PTR  opensource.nekonet.co.jp.
+17.34.24.172.in-addr.arpa.	IN  PTR  tynung01.ungi.nekonet.co.jp.
+99.243.24.172.in-addr.arpa.	IN  PTR  www.ysd-partner.jp.

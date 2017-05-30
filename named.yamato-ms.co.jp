@@ -1,0 +1,15 @@
+$TTL	3600
+yamato-ms.co.jp.  IN  SOA  tdcnsl00.nekonet.co.jp. g-apply.nekonet.ad.jp. (
+			2015052102	; serial
+			2H	; refresh
+			30M	; retry
+			2W	; expire
+			1M )
+yamato-ms.co.jp.	IN  NS  tdcnsl01.yamato-ms.co.jp.
+yamato-ms.co.jp.	IN  NS  osansl01.yamato-ms.co.jp.
+tdcnsl01.yamato-ms.co.jp.	IN  A  192.168.92.76
+osansl01.yamato-ms.co.jp.	IN  A  192.168.171.203
+www.yamato-ms.co.jp.	IN  A  103.2.27.64
+e-bunsyoservice.yamato-ms.co.jp.	IN  A  10.248.18.130
+e-listcreator.yamato-ms.co.jp.	IN  A  10.248.18.131
+yamato-ms.co.jp.	IN  A  103.2.27.64

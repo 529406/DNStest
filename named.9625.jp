@@ -1,0 +1,29 @@
+$TTL	60
+9625.jp.  IN  SOA  tdcnsl00.9625.jp. root.tdcnsl00.kuronekoyamato.co.jp. (
+			2017011700	; serial
+			2H	; refresh
+			30M	; retry
+			2W	; expire
+			1M )
+9625.jp.	IN  NS  tdcnsl01.9625.jp.
+9625.jp.	IN  NS  osansl01.9625.jp.
+exam-m.9625.jp.	IN  NS  ytcnrs01.9625.jp.
+exam-osa-m.9625.jp.	IN  NS  ytcnrs01.9625.jp.
+test-m.9625.jp.	IN  NS  ytcnrs01.9625.jp.
+ps-m.9625.jp.	IN  NS  ytcnrs01.9625.jp.
+m.9625.jp.	IN  NS  ytcnrs01.9625.jp.
+test-osa-m.9625.jp.	IN  NS  ytcnrs01.9625.jp.
+9625.jp.	IN  MX 10 mail.9625.jp.
+test.9625.jp.	IN  MX 10 mailtest.9625.jp.
+tdcnsl01.9625.jp.	IN  A  192.168.92.76
+osansl01.9625.jp.	IN  A  192.168.171.203
+9625.jp.	IN  A  218.40.14.47
+mail.9625.jp.	IN  A  218.40.14.30
+ytcnrs01.9625.jp.	IN  A  218.40.14.247
+ytc.9625.jp.	IN  A  103.2.25.79
+tyo-ps-m.9625.jp.	IN  A  103.2.27.232
+osa-ps-m.9625.jp.	IN  A  103.2.25.232
+tyo-m.9625.jp.	IN  A  218.40.12.184
+osa-m.9625.jp.	IN  A  218.40.14.176
+ytcnrs02.9625.jp.	IN  A  218.40.12.247
+mailtest.9625.jp.	IN  A  219.100.33.46

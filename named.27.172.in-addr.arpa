@@ -1,0 +1,30 @@
+$TTL	3600
+27.172.in-addr.arpa.  IN  SOA  tdcnsl00.27.172.in-addr.arpa. root.nekonet.co.jp. (
+			2015080500	; serial
+			2H	; refresh
+			30M	; retry
+			2W	; expire
+			1M )
+27.172.in-addr.arpa.	IN  NS  tdcnsl01.nekonet.co.jp.
+27.172.in-addr.arpa.	IN  NS  osansl01.nekonet.co.jp.
+59.53.27.172.in-addr.arpa.	IN  PTR  tdcvse09.nekonet.co.jp.
+51.53.27.172.in-addr.arpa.	IN  PTR  tdcvie01.nekonet.co.jp.
+52.53.27.172.in-addr.arpa.	IN  PTR  tdcvie02.nekonet.co.jp.
+53.53.27.172.in-addr.arpa.	IN  PTR  tdcvie03.nekonet.co.jp.
+54.53.27.172.in-addr.arpa.	IN  PTR  tdcvie04.nekonet.co.jp.
+55.53.27.172.in-addr.arpa.	IN  PTR  tdcvie05.nekonet.co.jp.
+60.53.27.172.in-addr.arpa.	IN  PTR  tdcvse10.nekonet.co.jp.
+61.53.27.172.in-addr.arpa.	IN  PTR  tdcvse11.nekonet.co.jp.
+62.53.27.172.in-addr.arpa.	IN  PTR  tdcvse12.nekonet.co.jp.
+63.53.27.172.in-addr.arpa.	IN  PTR  tdcvse13.nekonet.co.jp.
+95.53.27.172.in-addr.arpa.	IN  PTR  YSDCLT-VC01.ysdad.nekonet.co.jp.
+80.53.27.172.in-addr.arpa.	IN  PTR  YSDCLT-ESXi01.nekonet.co.jp.
+82.53.27.172.in-addr.arpa.	IN  PTR  YSDCLT-ESXi02.nekonet.co.jp.
+84.53.27.172.in-addr.arpa.	IN  PTR  YSDCLT-ESXi03.nekonet.co.jp.
+86.53.27.172.in-addr.arpa.	IN  PTR  YSDCLT-ESXi04.nekonet.co.jp.
+88.53.27.172.in-addr.arpa.	IN  PTR  YSDCLT-ESXi05.nekonet.co.jp.
+90.53.27.172.in-addr.arpa.	IN  PTR  YSDCLT-ESXi06.nekonet.co.jp.
+92.53.27.172.in-addr.arpa.	IN  PTR  YSDCLT-ESXi07.nekonet.co.jp.
+94.53.27.172.in-addr.arpa.	IN  PTR  YSDCLT-ESXi08.nekonet.co.jp.
+132.53.27.172.in-addr.arpa.	IN  PTR  YSDCLT-DB01.nekonet.co.jp.
+96.53.27.172.in-addr.arpa.	IN  PTR  YSDCLT-Usage01.nekonet.co.jp.

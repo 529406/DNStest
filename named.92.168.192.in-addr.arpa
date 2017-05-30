@@ -1,0 +1,7 @@
+$TTL	3600
+92.168.192.in-addr.arpa.  IN  SOA  tdcnsl00.localdomain. root.tdcnsl00.localdomain. (
+			2006042002	; serial
+			7200	; refresh
+			1800	; retry
+			1209600	; expire
+			60 )
