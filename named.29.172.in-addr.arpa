@@ -1,0 +1,11 @@
+$TTL	3600
+29.172.in-addr.arpa.  IN  SOA  tdcnsl00.29.172.in-addr.arpa. root.nekonet.co.jp. (
+			2007033100	; serial
+			7200	; refresh
+			1800	; retry
+			1209600	; expire
+			60 )
+29.172.in-addr.arpa.	IN  NS  tdcnsl01.nekonet.co.jp.
+29.172.in-addr.arpa.	IN  NS  osansl01.nekonet.co.jp.
+19.33.29.172.in-addr.arpa.	IN  PTR  test-gikai.nekonet.co.jp.
+217.11.29.172.in-addr.arpa.	IN  PTR  sinaix01.nekonet.co.jp.

@@ -1,0 +1,34 @@
+$TTL	60
+to-posnet.jp.  IN  SOA  tdcnsl00.to-posnet.jp. jimukyoku-riji.torokyo.gr.jp. (
+			2015062400	; serial
+			2H	; refresh
+			30M	; retry
+			2W	; expire
+			1M )
+to-posnet.jp.	IN  NS  tdcnsl01.to-posnet.jp.
+to-posnet.jp.	IN  NS  osansl01.to-posnet.jp.
+exam-toi.to-posnet.jp.	IN  NS  ytcnrs01.to-posnet.jp.
+exam-topos.to-posnet.jp.	IN  NS  ytcnrs01.to-posnet.jp.
+exam-osa-topos.to-posnet.jp.	IN  NS  ytcnrs01.to-posnet.jp.
+exam-osa-toi.to-posnet.jp.	IN  NS  ytcnrs01.to-posnet.jp.
+test-toi.to-posnet.jp.	IN  NS  ytcnrs01.to-posnet.jp.
+test-topos.to-posnet.jp.	IN  NS  ytcnrs01.to-posnet.jp.
+ps-toi.to-posnet.jp.	IN  NS  ytcnrs01.to-posnet.jp.
+ps-topos.to-posnet.jp.	IN  NS  ytcnrs01.to-posnet.jp.
+toi.to-posnet.jp.	IN  NS  ytcnrs01.to-posnet.jp.
+topos.to-posnet.jp.	IN  NS  ytcnrs01.to-posnet.jp.
+test-osa-toi.to-posnet.jp.	IN  NS  ytcnrs01.to-posnet.jp.
+test-osa-topos.to-posnet.jp.	IN  NS  ytcnrs01.to-posnet.jp.
+tdcnsl01.to-posnet.jp.	IN  A  192.168.92.76
+osansl01.to-posnet.jp.	IN  A  192.168.171.203
+ytcnrs01.to-posnet.jp.	IN  A  218.40.14.247
+to-posnet.jp.	IN  A  103.2.25.77
+tyo-ps-toi.to-posnet.jp.	IN  A  103.2.27.233
+tyo-ps-topos.to-posnet.jp.	IN  A  103.2.27.233
+osa-ps-toi.to-posnet.jp.	IN  A  103.2.25.233
+osa-ps-topos.to-posnet.jp.	IN  A  103.2.25.233
+tyo-toi.to-posnet.jp.	IN  A  218.40.12.185
+tyo-topos.to-posnet.jp.	IN  A  218.40.12.185
+osa-toi.to-posnet.jp.	IN  A  218.40.14.178
+osa-topos.to-posnet.jp.	IN  A  218.40.14.178
+ytcnrs02.to-posnet.jp.	IN  A  218.40.12.247

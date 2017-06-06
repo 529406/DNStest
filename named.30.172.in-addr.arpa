@@ -1,0 +1,22 @@
+$TTL	3600
+30.172.in-addr.arpa.  IN  SOA  tdcnsl00.30.172.in-addr.arpa. root.nekonet.co.jp. (
+			2007033100	; serial
+			7200	; refresh
+			1800	; retry
+			1209600	; expire
+			60 )
+30.172.in-addr.arpa.	IN  NS  tdcnsl01.nekonet.co.jp.
+30.172.in-addr.arpa.	IN  NS  osansl01.nekonet.co.jp.
+80.11.30.172.in-addr.arpa.	IN  PTR  tyospk02.nekonet.co.jp.
+23.11.30.172.in-addr.arpa.	IN  PTR  kinyuu.nekonet.co.jp.
+206.22.30.172.in-addr.arpa.	IN  PTR  mother.nekonet.co.jp.
+20.24.30.172.in-addr.arpa.	IN  PTR  gikai.nekonet.co.jp.
+21.24.30.172.in-addr.arpa.	IN  PTR  gikai-db.nekonet.co.jp.
+42.25.30.172.in-addr.arpa.	IN  PTR  y2k.nekonet.co.jp.
+14.43.30.172.in-addr.arpa.	IN  PTR  keiri01.nekonet.co.jp.
+94.22.30.172.in-addr.arpa.	IN  PTR  nwklinux.nekonet.co.jp.
+113.41.30.172.in-addr.arpa.	IN  PTR  aemlinux.nekonet.co.jp.
+115.41.30.172.in-addr.arpa.	IN  PTR  aemlinux2.nekonet.co.jp.
+69.42.30.172.in-addr.arpa.	IN  PTR  jnjappweb.nekonet.co.jp.
+63.43.30.172.in-addr.arpa.	IN  PTR  keiri02.nekonet.co.jp.
+211.41.30.172.in-addr.arpa.	IN  PTR  jnjweb.nekonet.co.jp.

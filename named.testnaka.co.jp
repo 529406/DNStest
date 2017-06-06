@@ -1,0 +1,16 @@
+$TTL	86400
+testnaka.co.jp.  IN  SOA  tdcnsl00.testnaka.co.jp. root.testnaka.co.jp. (
+			2014052009	; serial
+			10800	; refresh
+			3600	; retry
+			1209600	; expire
+			86400 )
+testnaka.co.jp.	IN  NS  nakajo01.testnaka.co.jp.
+nakajo01.testnaka.co.jp.	IN  A  1.2.3.4
+1.testnaka.co.jp.	IN  A  1.1.1.1
+2.testnaka.co.jp.	IN  A  1.1.1.1
+2.testnaka.co.jp.	IN  A  3.2.2.1
+4.testnaka.co.jp.	IN  A  1.1.1.1
+5.testnaka.co.jp.	IN  A  1.2.3.4
+8.testnaka.co.jp.	IN  A  1.2.4.5
+10.testnaka.co.jp.	IN  A  1.1.1.1
