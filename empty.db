@@ -1,9 +1,0 @@
-$TTL 1D
-@	IN	SOA	tdcnsl00.nekonet.co.jp. hostmaster.tdcnsl00.nekonet.co.jp. (
-			2004081100
-			12H
-			3H
-			30D
-			15M)
-		NS	tdcnsl00.nekonet.co.jp.
-tdcnsl00.nekonet.co.jp.	IN	A	127.0.0.1
