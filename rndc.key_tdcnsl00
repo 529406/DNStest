@@ -1,0 +1,4 @@
+key "rndckey" {
+        algorithm       hmac-md5;
+        secret          "ZNZdHDSx36Zifnaz6ty836RQRoHAV62kkZ3hTpoOEFT6uAJLmihnqWcUvS0z";
+};

@@ -1,0 +1,4 @@
+key "rndckey" {
+        algorithm hmac-md5;
+        secret "bnu/DMq23lG3xuaCylVWmQ==";
+};
