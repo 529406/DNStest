@@ -45,7 +45,7 @@ logging {
     null ;
   };
 };
-include "martian.conf" ;
+include "/etc/martian.conf" ;
 include "/etc/rndc.key" ;
 zone "." IN {
   type hint ;

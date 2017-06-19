@@ -72,7 +72,7 @@ zone "localhost" IN {
   };
 };
 include "/etc/rndc.key" ;
-include "martian.conf" ;
+include "/etc/martian.conf" ;
 zone "nekonet.co.jp" {
   type master ;
   file "named.nekonet.co.jp" ;
